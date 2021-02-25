@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+npm run i
+npm run dev
