@@ -15,5 +15,4 @@ yarn-error.log
 logs/
 .bash_history
 public/js
-public/models/uploads
 .bash_history
