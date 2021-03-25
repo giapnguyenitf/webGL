@@ -23,3 +23,4 @@ Route::get('/live-video', 'LiveVideoController@index')->name('live-video.index')
 Route::get('/admin/live-video', 'LiveVideoController@edit')->name('live-video.edit');
 Route::get('/preview', 'LiveVideoController@show')->name('live-video.show');
 Route::get('/map-orbit', 'HomeController@mapOrbit')->name('home.map-orbit');
+Route::get('/test-camera', 'HomeController@testCamera')->name('home.test-camera');

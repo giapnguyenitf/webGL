@@ -43,4 +43,9 @@ class HomeController extends Controller
     {
         return view('map-orbit');
     }
+
+    public function testCamera()
+    {
+        return view('test-camera');
+    }
 }
